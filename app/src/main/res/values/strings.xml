@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_title">IMC Test</string>
+    <string name="main_peso">Peso Corporal [Kg]</string>
+    <string name="main_button">Calcular</string>
+    <string name="main_estatura">Estatura [m]</string>
+    <string name="result_title">Resultado</string>
+    <string name="result_label">Su IMC (Indice de masa corporal) es:</string>
+    <string name="result">Result</string>
+    <string name="result_description">Descripción</string>
+    <string name="imc">IMC</string>
+</resources>
